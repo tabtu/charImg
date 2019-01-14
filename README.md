@@ -1,0 +1,1 @@
+Change a picture to char array.
